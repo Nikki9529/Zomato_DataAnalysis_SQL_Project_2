@@ -1,16 +1,14 @@
-#Buisness Questions Zomato Database !!
+Business Questions Zomato Database !!
+
 
 1) Help Zomato in identifying the cities with poor Restaurant Ratings.
-2) Mr.Roy is looking for a restaurant in kolkata which provides Online Delivery.Help him
+2) Mr.Roy is looking for a restaurant in Kolkata that provides Online Delivery. Help him
  to find the Best Restaurant.
-3) Help Peter in finding the best rated Reataurant for Pizza in New Delhi.
-4) Enlist Most Affordable and Highly rated restaurants city wise.
-5) Help Zomato in identifying the retaurants with poor offline services.
-6) Help Zomato in identifying those cities which have atleast 3 restaurants with ratings >= 4.9 .
-	In case there are 2 cities with the same result, sort them in alphabetical order.
-7) What are the top 5 countries with most restaurants linked with Zomato ?
-8) What is the average cost for 2 across all Zomato listed Restaurants ?
-9) Group the restaurants basis the average cost for 2 into :
-	Luxurious Expensive, Very Expensive, Expensive, High, Medium High, Average.
-	Then, find the number of restaurants in each category.
+3) Help Peter in finding the best-rated restaurant for Pizza in New Delhi.
+4) Enlist the Most Affordable and Highly rated restaurants city-wise.
+5) Help Zomato in identifying restaurants with poor offline services.
+6) Help Zomato in identifying those cities which have at least 3 restaurants with ratings >= 4.9. In case there are 2 cities with the same result, sort them in alphabetical order.
+7) What are the top 5 countries with the most restaurants linked with Zomato?
+8) What is the average cost for 2 across all Zomato listed Restaurants?
+9) 
 10) List the 2 top 5 restaurants with Highest Rating with Maximum votes.
