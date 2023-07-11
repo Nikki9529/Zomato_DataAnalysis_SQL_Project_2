@@ -10,5 +10,5 @@ Business Questions Zomato Database !!
 6) Help Zomato in identifying those cities which have at least 3 restaurants with ratings >= 4.9. In case there are 2 cities with the same result, sort them in alphabetical order.
 7) What are the top 5 countries with the most restaurants linked with Zomato?
 8) What is the average cost for 2 across all Zomato listed Restaurants?
-9) 
+9) How many Restaurants are there in each country sort the data by no. of Restaurants.
 10) List the 2 top 5 restaurants with Highest Rating with Maximum votes.
